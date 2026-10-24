@@ -1,0 +1,107 @@
+{
+ "textures": {
+  "stone": "minecraft:block/stone_bricks",
+  "pillar": "minecraft:block/mossy_stone_bricks",
+  "top": "minecraft:block/sea_lantern",
+  "particle": "minecraft:block/mossy_stone_bricks"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    0,
+    2
+   ],
+   "to": [
+    14,
+    3,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#stone"
+    },
+    "south": {
+     "texture": "#stone"
+    },
+    "east": {
+     "texture": "#stone"
+    },
+    "west": {
+     "texture": "#stone"
+    },
+    "up": {
+     "texture": "#stone"
+    },
+    "down": {
+     "texture": "#stone"
+    }
+   }
+  },
+  {
+   "from": [
+    5,
+    3,
+    5
+   ],
+   "to": [
+    11,
+    9,
+    11
+   ],
+   "faces": {
+    "north": {
+     "texture": "#pillar"
+    },
+    "south": {
+     "texture": "#pillar"
+    },
+    "east": {
+     "texture": "#pillar"
+    },
+    "west": {
+     "texture": "#pillar"
+    },
+    "up": {
+     "texture": "#pillar"
+    },
+    "down": {
+     "texture": "#pillar"
+    }
+   }
+  },
+  {
+   "from": [
+    4,
+    9,
+    4
+   ],
+   "to": [
+    12,
+    13,
+    12
+   ],
+   "faces": {
+    "north": {
+     "texture": "#top"
+    },
+    "south": {
+     "texture": "#top"
+    },
+    "east": {
+     "texture": "#top"
+    },
+    "west": {
+     "texture": "#top"
+    },
+    "up": {
+     "texture": "#top"
+    },
+    "down": {
+     "texture": "#top"
+    }
+   }
+  }
+ ],
+ "parent": "minecraft:block/block"
+}

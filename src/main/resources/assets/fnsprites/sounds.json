@@ -1,0 +1,116 @@
+{
+ "sprite_eight_bit": {
+  "subtitle": "subtitles.fnsprites.eight_bit",
+  "sounds": [
+   "fnsprites:sprite_eight_bit"
+  ]
+ },
+ "sprite_adventure": {
+  "subtitle": "subtitles.fnsprites.adventure",
+  "sounds": [
+   "fnsprites:sprite_adventure"
+  ]
+ },
+ "sprite_bush": {
+  "subtitle": "subtitles.fnsprites.bush",
+  "sounds": [
+   "fnsprites:sprite_bush"
+  ]
+ },
+ "sprite_jonesy": {
+  "subtitle": "subtitles.fnsprites.jonesy",
+  "sounds": [
+   "fnsprites:sprite_jonesy"
+  ]
+ },
+ "sprite_mega_man": {
+  "subtitle": "subtitles.fnsprites.mega_man",
+  "sounds": [
+   "fnsprites:sprite_mega_man"
+  ]
+ },
+ "sprite_onigiri": {
+  "subtitle": "subtitles.fnsprites.onigiri",
+  "sounds": [
+   "fnsprites:sprite_onigiri"
+  ]
+ },
+ "sprite_overshield": {
+  "subtitle": "subtitles.fnsprites.overshield",
+  "sounds": [
+   "fnsprites:sprite_overshield"
+  ]
+ },
+ "sprite_storm_scout": {
+  "subtitle": "subtitles.fnsprites.storm_scout",
+  "sounds": [
+   "fnsprites:sprite_storm_scout"
+  ]
+ },
+ "sprite_sonic": {
+  "subtitle": "subtitles.fnsprites.sonic",
+  "sounds": [
+   "fnsprites:sprite_sonic"
+  ]
+ },
+ "sprite_tails": {
+  "subtitle": "subtitles.fnsprites.tails",
+  "sounds": [
+   "fnsprites:sprite_tails"
+  ]
+ },
+ "sprite_shadow": {
+  "subtitle": "subtitles.fnsprites.shadow",
+  "sounds": [
+   "fnsprites:sprite_shadow"
+  ]
+ },
+ "sprite_killswitch": {
+  "subtitle": "subtitles.fnsprites.killswitch",
+  "sounds": [
+   "fnsprites:sprite_killswitch"
+  ]
+ },
+ "sprite_jackrabbit": {
+  "subtitle": "subtitles.fnsprites.jackrabbit",
+  "sounds": [
+   "fnsprites:sprite_jackrabbit"
+  ]
+ },
+ "sprite_x_ray": {
+  "subtitle": "subtitles.fnsprites.x_ray",
+  "sounds": [
+   "fnsprites:sprite_x_ray"
+  ]
+ },
+ "sprite_klombo": {
+  "subtitle": "subtitles.fnsprites.klombo",
+  "sounds": [
+   "fnsprites:sprite_klombo"
+  ]
+ },
+ "sprite_crown": {
+  "subtitle": "subtitles.fnsprites.crown",
+  "sounds": [
+   "fnsprites:sprite_crown"
+  ]
+ },
+ "sprite_levelup": {
+  "subtitle": "subtitles.fnsprites.levelup",
+  "sounds": [
+   "fnsprites:sprite_levelup"
+  ]
+ },
+ "shrine_awaken": {
+  "subtitle": "subtitles.fnsprites.shrine",
+  "sounds": [
+   "fnsprites:shrine_awaken"
+  ]
+ },
+ "shrine_boon": {
+  "subtitle": "subtitles.fnsprites.boon",
+  "sounds": [
+   "fnsprites:shrine_boon"
+  ]
+ }
+}

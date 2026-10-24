@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "fnsprites",
+  "version": "${version}",
+  "name": "Fortnite Sprites",
+  "description": "Espíritus (Sprites) de Fortnite Override: 16 espíritus x 3 acabados, entidades, santuarios y habilidades.",
+  "authors": ["Tú"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.fnsprites.FnSprites"],
+    "client": ["com.example.fnsprites.FnSpritesClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
